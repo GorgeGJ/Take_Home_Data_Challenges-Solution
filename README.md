@@ -23,4 +23,4 @@ My personal solution for well-known A_Collection_of_Data_Scientist_Take_Home_Cha
 17. Engagement Test
 18. On-Line Video Challenge 
 19. Subscription Retention Rate 
-20. Ads Analysis
+20. Ads Analysis 
